@@ -1,47 +1,74 @@
-# **<div align="center" style="font-size: 3em;">HEY, WELCOME TO MY PROFILE 🤪</div>**  
+# Hi 👋 My name is Daniel aka Housecold
+=====================================
 
-### <div align="center" style="font-size: 1.5em;">I'm Daniel aka Housecold, a curious Junior Fullstack Developer 🚀</div>  
+## A Curious Junior Fullstack Developer 🚀
 
-<div align="center" style="padding: 10px;">
-  <img src="https://img.shields.io/badge/-Fullstack%20Developer-blueviolet?style=for-the-badge" />
-</div>
-
----
-
-### 👋 About Me
-- **Education**: Bachelor's degree in Medical Imaging and Radiotherapy.
-- **Passion**: Transitioned into IT and tech with a mission to shape my future.
-- **Current Focus**: Fullstack Developer course at CodeForAll_.
-- **Hobbies**: Gaming 🎮, Cooking 🍳, Traveling ✈️, Movies 🎬.
-- **Fun Fact**: My house is indeed cold ❄️.
+🌍 **Location:** Based in Porto, Portugal  
+🎓 **Education:** Bachelor's degree in Medical Imaging and Radiotherapy  
+💻 **Passion:** Transitioned into IT and tech with a mission to shape my future  
+🔭 **Current Focus:** Fullstack Developer course at CodeForAll\_  
+🎮 **Hobbies:** Gaming 🎮, Cooking 🍳, Traveling ✈️, Movies 🎬  
+❄️ **Fun Fact:** My house is indeed cold
 
 ---
 
-## 🛠 My Skill Set  
-<div align="center">  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; filter: drop-shadow(2px 2px 2px #222);" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; filter: drop-shadow(2px 2px 2px #222);" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; filter: drop-shadow(2px 2px 2px #222);" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px; filter: drop-shadow(2px 2px 2px #222);" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; filter: drop-shadow(2px 2px 2px #222);" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-  <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px; filter: drop-shadow(2px 2px 2px #222);" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
-</div>  
+### 📬 Contact Me
+* ✉️  Reach out via email: [danieledgarmagalhaes@gmail.com](mailto:danieledgarmagalhaes@gmail.com)
+* 💼  Connect and message me on LinkedIn: [Daniel Magalhães](https://www.linkedin.com/in/daniel-mag)
 
 ---
 
-## 🤝 Connect with Me  
-<div align="center">
-<a href="https://www.linkedin.com/in/daniel-mag" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+### ⚙️ My Skill Set
+<p align="center">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+<a href="https://discord.com/users/housecold" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+</picture>
 </a>
+<a href="https://www.github.com/Housecold" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</picture>
+</a>
+<a href="https://www.linkedin.com/in/daniel-mag" target="_blank" rel="noreferrer">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</picture>
+</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Housecold&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Housecold's GitHub Stats" />
-</div>  
+### 🏆 GitHub Stats
 
-<div align="center" style="padding-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Housecold&&style=for-the-badge" alt="Profile Views" />
-</div>  
+<p align="center">
+<a href="http://www.github.com/Housecold"><img src="https://github-readme-stats.vercel.app/api?username=Housecold&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Housecold's GitHub stats" /></a>
+<a href="http://www.github.com/Housecold"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Housecold&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" /></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Housecold&&style=flat-square&color=ef4444" alt="Profile Views" />
+</p>
