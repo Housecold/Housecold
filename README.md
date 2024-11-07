@@ -6,7 +6,7 @@
 🌍 **Location:** Based in Porto, Portugal  
 🎓 **Education:** Bachelor's degree in Medical Imaging and Radiotherapy  
 💻 **Passion:** Transitioned into IT and tech with a mission to shape my future  
-🔭 **Current Focus:** Fullstack Developer course at CodeForAll\_  
+🔭 **Current Focus:** Fullstack Developer [looking for a job]  
 🎮 **Hobbies:** Gaming 🎮, Cooking 🍳, Traveling ✈️, Movies 🎬  
 ❄️ **Fun Fact:** My house is indeed cold
 
